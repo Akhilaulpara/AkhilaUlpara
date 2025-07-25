@@ -45,7 +45,7 @@ Deep Learning (CNNs, RNNs, Transformers)
 
 AI in Finance & Business Intelligence
 
---
+---
 
 **📫 Connect with Me**
 
@@ -53,5 +53,6 @@ AI in Finance & Business Intelligence
 
 💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/akhila-ulpara-91588a336/)
 
+---
 
-
+Thanks for visiting☺️

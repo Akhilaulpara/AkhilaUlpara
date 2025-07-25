@@ -1,4 +1,4 @@
-**👋 Hi, I'm Akhila Ulpara**
+#👋 Hi, I'm Akhila Ulpara
 
 <!--
 **Akhilaulpara/AkhilaUlpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 🧠 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 📊 Visualization Enthusiast | 📈 Finance Buff | 🤝 Data Science Collaborator
 
+---
 **🚀 About Me**
 
 I’m currently exploring the vast and exciting world of AI, with a strong foundation in Machine Learning and Data Science. I love making complex data come alive through compelling visualizations — from Tableau dashboards to Python-powered insights.
 
 My curiosity drives me to build smart, data-driven solutions — and finance happens to be another passion of mine. I recently built an Asset Price Prediction model to combine my love for numbers, trends, and intelligent forecasting.
+
+---
 
 **🔧 What I Do**
 
@@ -34,12 +37,15 @@ My curiosity drives me to build smart, data-driven solutions — and finance hap
 
 **🧪 Projects** — End-to-end ML pipelines, churn prediction, fraud detection, and more.
 
+---
 
 **👀 Currently Exploring**
 
 Deep Learning (CNNs, RNNs, Transformers)
 
 AI in Finance & Business Intelligence
+
+--
 
 **📫 Connect with Me**
 

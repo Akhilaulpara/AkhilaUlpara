@@ -45,7 +45,7 @@ AI in Finance & Business Intelligence
 
 📧 Email: akhilaulpara@gmail.com
 
-💼 LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/akhila-ulpara-91588a336/)
+💼 LinkedIn: [[My LinkedIn profile]](https://www.linkedin.com/in/akhila-ulpara-91588a336/)
 
 
 

@@ -1,4 +1,4 @@
-#👋 Hi, I'm Akhila Ulpara
+<h1><b>👋 Hi, I'm Akhila Ulpara</b></h1>
 
 <!--
 **Akhilaulpara/AkhilaUlpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 Final Year Computer Science Student at Osmania University
+
 🧠 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+
 📊 Visualization Enthusiast | 📈 Finance Buff | 🤝 Data Science Collaborator
 
 ---

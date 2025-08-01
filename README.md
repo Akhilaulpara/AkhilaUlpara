@@ -51,10 +51,8 @@ AI in Finance & Business Intelligence
 
 **📫 Connect with Me**
 
-📧 Email: akhilaulpara@gmail.com
+📧 Mail: akhilaulpara@gmail.com
 
 💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/akhila-ulpara-91588a336/)
 
----
 
-Thanks for visiting☺️

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Final Year Computer Science Student at Osmania University
+🎓 Computer Science Student at Methodist College of Engineering and Technology, Osmania University
 
 🧠 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
@@ -43,7 +43,7 @@ My curiosity drives me to build smart, data-driven solutions — and finance hap
 
 **👀 Currently Exploring**
 
-Deep Learning (CNNs, RNNs, Transformers)
+Exploring and developing AI Agents using Large Language Models (Agentic AI)
 
 AI in Finance & Business Intelligence
 
